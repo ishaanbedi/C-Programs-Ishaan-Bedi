@@ -17,7 +17,7 @@
 
 [7. An array of records contains information about managers and workers of a company. Print all the data of managers and workers in separate files.](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/7.c)
 
-[8. Write a program to perform the following operators on Strings without using String functions](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/8.c)
+[8. Write a program to perform the following operators on Strings without using String functions](https://github.com/ishaanbedi/ipu-c-programs-first-year/tree/main/8)
 
     a. To find the length of the String.
     b. To concatenate two strings.
