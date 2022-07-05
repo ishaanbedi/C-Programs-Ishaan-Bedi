@@ -29,6 +29,6 @@
 [10. Write a program to count the no of Lowercase, Uppercase numbers and special Characters present in the contents of a text file.](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/10.c)
 
 
-###Functions
+### Functions
 
-[Perfect Numbers in an interval](https://github.com/ishaanbedi/ipu-c-programs-first-year)
+[1. Perfect Numbers in an interval](https://github.com/ishaanbedi/C-Programs-Ishaan-Bedi/blob/main/Functions/1.c)
