@@ -7,12 +7,7 @@
 [4. Write a recursive program to print the first m Fibonacci number.](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/4.c)
 
 [5. Write a menu-driven program for matrices to do the following operation depending on whether the operation requires one or two matrices](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/5.c)
-
-    a. Addition of two matrices
-    b. Subtraction of two matrices
-    c. Finding upper and lower triangular matrices
-    d. Transpose of a matrix
-    e. Product of two matrices
+    
 [6. Write a program to copy one file to another, and use command-line arguments.](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/6.c)
 
 [7. An array of records contains information about managers and workers of a company. Print all the data of managers and workers in separate files.](https://github.com/ishaanbedi/ipu-c-programs-first-year/blob/main/7.c)
