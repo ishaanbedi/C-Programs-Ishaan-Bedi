@@ -17,7 +17,8 @@ int getLen(char str[])
 }
 int main()
 {
-    char str[20], temp;
+    char str[20];
+    char rev[20];
     int i, length;
     printf("Enter the string : ");
     scanf("%s", str);

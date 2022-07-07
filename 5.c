@@ -143,14 +143,14 @@ void transpose()
             scanf("%d", &a[i][j]);
         }
     int b[r][c];
-    for (int i = 0; i < 3; i++)
-        for (int j = 0; j < 3; j++)
+    for (int i = 0; i < r; i++)
+        for (int j = 0; j < c; j++)
             b[i][j] = a[j][i];
 
     printf("Transpose of matrix is \n");
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < r; i++)
     {
-        for (int j = 0; j < 3; j++)
+        for (int j = 0; j < c; j++)
             printf("%d ", b[i][j]);
         printf("\n");
     }
@@ -210,11 +210,6 @@ void multiply()
 
 void menu()
 {
-    // a. Addition of two matrices
-    // b. Subtraction of two matrices
-    // c. Finding upper and lower triangular matrices
-    // d. Transpose of a matrix
-    // e. Product of two matrices
     printf("Press a for addition of two matrices\n");
     printf("Press b for subtraction of two matrices\n");
     printf("Press c for finding upper and lower triangular matrices\n");
